@@ -1,0 +1,67 @@
+@font-face {
+    font-family: YoungSerif;
+    src: url(fonts/Young_Serif.zip);
+}
+
+
+.navbar{
+    background-color: #e52a63 !important;
+    color:  #fff !important;
+}
+
+
+.navbar-brand{
+    font-weight: bolder;
+    color:  #fff !important;
+    font-size: xx-large;
+    font-family: YoungSerif;
+}
+
+.btn{
+    /* margin-right: 15px !important; */
+    /* margin-bottom: 10px; */
+    background-color: #fff !important;
+    color: #000000;
+}
+
+.btn:hover{
+    color: #000000;
+}
+
+.btn:focus{
+    color: #000000 !important;
+}
+
+.dropdown-menu{
+    color: #fff !important;
+}
+
+.form-select{
+    width: 150px;
+}
+
+.card{
+    width: 280px !important;
+    /* height: 200px !important; */
+    object-fit: cover !important;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.card-img-top{
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+}
+
+#single-car{
+    width: 100% !important;
+    height: 1100px !important;
+    object-fit: cover;
+}
+
+.card-img{
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+}
